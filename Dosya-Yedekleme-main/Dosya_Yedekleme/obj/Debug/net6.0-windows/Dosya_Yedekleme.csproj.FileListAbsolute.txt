@@ -1,0 +1,58 @@
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.exe
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.deps.json
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.runtimeconfig.json
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.dll
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.pdb
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\DotNetZip.dll
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.Form1.resources
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.GenerateResource.cache
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.CopyComplete
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.dll
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\refint\Dosya_Yedekleme.dll
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.pdb
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\Dosya_Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\ref\Dosya_Yedekleme.dll
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.exe
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.deps.json
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.runtimeconfig.json
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.dll
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\ref\Dosya_Yedekleme.dll
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.pdb
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\DotNetZip.dll
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.AssemblyReference.cache
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.FrmYedekleme.resources
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.GenerateResource.cache
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.AssemblyInfoInputs.cache
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.AssemblyInfo.cs
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.CoreCompileInputs.cache
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.CopyComplete
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.dll
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\ref\Dosya_Yedekleme.dll
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.pdb
+C:\Users\Birol İnci\Source\Repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.FrmYedekleme.resources
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.GenerateResource.cache
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.dll
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\refint\Dosya_Yedekleme.dll
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.pdb
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.exe
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.deps.json
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.runtimeconfig.json
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.dll
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Dosya_Yedekleme.pdb
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.csproj.CopyComplete
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\ref\Dosya_Yedekleme.dll
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\bin\Debug\net6.0-windows\Ionic.Zip.dll
+C:\Users\zeynep\source\repos\Dosya-Yedekleme\Dosya_Yedekleme\obj\Debug\net6.0-windows\Dosya_Yedekleme.Properties.Resources.resources
